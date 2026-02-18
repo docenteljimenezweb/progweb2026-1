@@ -1,0 +1,58 @@
+Clase HTML
+
+Diapositiva 1
+¿Qué es HTML?
+HTML = HyperText Markup Language
+
+No es un lenguaje de programación: es un lenguaje de marcado. Describe la estructura y el significado del contenido.
+
+Diapositiva 2:
+
+Tim Berners Lee: padre del internet
+
+1980: El físico Tim Berners-Lee propone ENQUIRE, un sistema de hipertexto para compartir documentos en el CERN.
+
+1989: Berners-Lee presenta una propuesta formal para un sistema de gestión de información basado en hipertexto: la World Wide Web.
+
+1990: Berners-Lee escribe el primer navegador (WorldWideWeb) y desarrolla las primeras especificaciones de HTML. Etiquetas iniciales: <TITLE>, <H1>, <P>, <A> (enlace).
+
+1991: Berners-Lee publica un documento titulado "HTML Tags" donde describe las 18 etiquetas originales del lenguaje.
+
+1991-1995: Aparecen nuevos navegadores, se introducen etiquetas que adornan o mejoran la presentación tal como <BLINK> <FONT> <TABLE>
+
+1994:  Se funda el W3C (World Wide Web Consortium) por Tim Berners-Lee para estandarizar el desarrollo web. Desarrolla estándares abiertos (como HTML, CSS) para asegurar la accesibilidad, interoperabilidad y el crecimiento a largo plazo de la Web. Compuesto por cientos de empresas y expertos, busca unificar las tecnologías web para que funcionen uniformemente en todos los navegadores. 
+
+1995-1997: Se incorporan mejoras en la presentación de la info, tal como permitir que se presente texto alrededor de las imagenes y quita etiquetas problematcias.
+1997: Se introducen las hojas de estilo se estructura de mejor manera la presentación agregando frames y scripts.
+1999: Se publica una versión estandarizada para la mayoria de los navegadores llamada html 4.01.
+
+2014: El W3C publica HTML5 como recomendación oficial. Añade etiquetas semánticas (<article>, <section>, <nav>), soporte multimedia nativo (<audio>, <video>), canvas y APIs para aplicaciones web.
+
+
+Diapositiva 2: 
+Estructura básica de todo documento HTML
+
+
+<!DOCTYPE html>                    <!-- Declaración: es HTML5 -->
+<html lang="es">                   <!-- Raíz del documento, idioma -->
+<head>                             <!-- Metadatos, no visible -->
+    <meta charset="UTF-8">         <!-- Codificación de caracteres -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi primera página</title> <!-- Título en pestaña -->
+</head>
+<body>                             <!-- TODO LO VISIBLE -->
+    Contenido aquí
+</body>
+</html>
+
+Diapositiva 4:
+
+<img src="foto.jpg">
+Etiquetas para probar:
+h1
+video
+img
+a
+Ctrl + Shif + X instalar Auto Close Tag
+
+Etiquetas Semanticas
