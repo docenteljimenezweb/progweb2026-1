@@ -59,7 +59,7 @@ Etiquetas Semanticas
 
 Git
 
-git init (inicializa repositorio)
+git init 
 git add . (agrega elementos modificados)
 git remote add origin https://github.com/docenteljimenezweb/progweb2026-1.git (agrega repositorio web)
 git branch (lista ramas)
